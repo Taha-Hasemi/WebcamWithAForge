@@ -1,7 +1,6 @@
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\WebcamWithAForge.exe.config
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\WebcamWithAForge.exe
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\WebcamWithAForge.pdb
-C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\Guna.UI.dll
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\obj\Debug\WebcamWithAForge.csproj.AssemblyReference.cache
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\obj\Debug\WebcamWithAForge.Form1.resources
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\obj\Debug\WebcamWithAForge.Properties.Resources.resources
@@ -15,3 +14,6 @@ C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\AForge.V
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\AForge.xml
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\AForge.Video.xml
 C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\bin\Debug\Guna.UI2.dll
+C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\obj\Debug\WebcamWithAForge.csproj.SuggestedBindingRedirects.cache
+C:\Users\kizil\source\repos\WebcamWithAForge\WebcamWithAForge\obj\Debug\WebcamWithAForge.csproj.CopyComplete

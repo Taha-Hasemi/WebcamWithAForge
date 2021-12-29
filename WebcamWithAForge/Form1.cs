@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using AForge.Video;
 using AForge.Video.DirectShow;
 using System.IO;
+using System.Drawing.Imaging;
 
 namespace WebcamWithAForge
 {
@@ -84,7 +85,8 @@ namespace WebcamWithAForge
             {
                 CheckExist();
                 string path = Path.Combine(@"C:\Users\" + System.Security.Principal.WindowsIdentity.GetCurrent().Name.Substring(System.Security.Principal.WindowsIdentity.GetCurrent().Name.LastIndexOf(@"\"), System.Security.Principal.WindowsIdentity.GetCurrent().Name.Length - System.Security.Principal.WindowsIdentity.GetCurrent().Name.LastIndexOf(@"\")) + @"\Pictures\HasimBeyAppPictures");
-                gunaPictureBox2.Image.Save(path + "\\" + Guid.NewGuid() + ".png");
+                string filePath = path + "\\" + DateTime.Now.Minute + DateTime.Now.Hour + Guid.NewGuid().ToString() + ".png";
+                gunaPictureBox2.Image.Save(filePath);
             }
             catch (Exception ex)
             {

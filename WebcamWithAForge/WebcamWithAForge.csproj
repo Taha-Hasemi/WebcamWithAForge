@@ -45,6 +45,9 @@
     <Reference Include="Guna.UI">
       <HintPath>..\..\..\..\Desktop\Serhat\Guna.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.2.7, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.2.7\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
